@@ -1,0 +1,8 @@
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\bin\Debug\MainProject_3.exe.config
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\bin\Debug\MainProject_3.exe
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\bin\Debug\MainProject_3.pdb
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\obj\Debug\MainProject_3.csproj.AssemblyReference.cache
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\obj\Debug\MainProject_3.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\obj\Debug\MainProject_3.csproj.CoreCompileInputs.cache
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\obj\Debug\MainProject_3.exe
+D:\C# Programme\MainProject\MainProject_3\MainProject_3\obj\Debug\MainProject_3.pdb
